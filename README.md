@@ -91,5 +91,3 @@ Georgia Institute of Technology, 2002.
 
 ## Author Info
 This utility was created by James Neufeld of the University of Alberta.
-
-I, Arek Sredzki, only fixed a few bugs which prevented compilation.
